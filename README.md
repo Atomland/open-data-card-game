@@ -1,6 +1,6 @@
 # open-data-card-game
 **A simple card game to explore the potential of Open Data**
-
+![header image](https://cloud.githubusercontent.com/assets/2728382/10522380/b92d58fe-736c-11e5-9480-9ed1173beca7.jpeg)
 
 ##What is this game for?##
 
