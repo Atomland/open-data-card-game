@@ -55,9 +55,9 @@ Next development steps:
 
 ###More data games###
 
-- School of Data is working on a data visualisation game that provides players with scenarios to follow (currently only with a closed license)
-- If you’re into actual card games, check out Open Trumps. It’s a version of the popular card game Top Trumps based on open datasets from the UN and the World Bank. It includes a deck generator software.
-- And of course the ODI crew is developing the promising Open Data Board Game Project
+- School of Data is working on a [data visualisation game](http://schoolofdata.org/2015/05/04/prototyping-a-card-game-about-datavisualisation-part-1/) that provides players with scenarios to follow (currently only with a closed license)
+- If you’re into actual card games, check out [Open Trumps](http://data-games.org/2014/06/open-trumps/). It’s a version of the popular card game Top Trumps based on open datasets from the UN and the World Bank. It includes a deck generator software.
+- And of course the ODI crew is developing the promising [Open Data Board Game Project](http://opendataboardgame.github.io/)
 
 Now it’s your turn: you can either download the sample deck below to play with or create your own. Do share your comments and decks. **I’m specially interested in hearing from designers and hope they will apply their thinking to improve the game.**
 
