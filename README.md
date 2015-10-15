@@ -6,23 +6,13 @@
 
 A quick game for open data advocates, workshops organisers and designers. The aim is to make it easier for users to discuss and explore data, and generally to get people more excited about the potential of open data. The game can be played during workshops, hackdays and co-design activities.
 
-Credit for this concept goes to Jag Goroya who developed it during his open data workshops and then generously invited others to experiment with it. Also thanks to FutureGov for letting me test the game during our events.
+Credit for this concept goes to [Jag Goroya](https://twitter.com/Jagusti) who developed it during his open data workshops and then generously invited others to experiment with it. Also thanks to [FutureGov](http://wearefuturegov.com/) for letting me test the game during our events. A detailed write-up about the game can be found [here](https://medium.com/@marc_barto/a-simple-card-game-to-explore-the-potential-of-open-data-6fdfecc4ad62).
 
-Find below screen-shots, guidelines and the files to create your own card deck…
-
-###What problem is this game trying to solve?###
-
-1. **Let’s face it, most people won’t open a spreadsheet unless they have to**. Even as more and more people get trained in data literacy, there is still a need for the wider public to engage with the untapped potential of this newly available resource. For this we need discovery tools and activities that are fun and easy to work with
-
-2. Designers are not trained to work with data. Designers often say that data feels too abstract. Visualisation tools can help, but they require being pre-processing by someone who know what questions to ask the and has the right skills to use the tool.
-For collaboration or co-design sessions, designers need an easy way to showcase, explore and combine the content of a dataset without opening the files.
+**Find below screen-shots, guidelines and the files to create your own card deck…**
 
 ###Creating the card deck###
 
 This activity is based on 2 type of resources : Datasets from within the organisation you’re working with, and datasets from external sources (e.g Open Corporates, ONS data) which will bring great value when combined together. You can use the sample deck provided but I found easier to work with data that participants can easily relate to, so I recommend creating a customised deck.
-
-- How many cards do you need? 3 per participant
-- Cards categories: It’s easier to list datasets per category: property, finance, health, environment etc.
 
 We first tested this activity with public servants so we used data opened as part of the Local Government Transparency Code, which generally includes a mix of financial, property, organisational and planning information. The strength of this game comes from data-combining, which enabled participants to see the potential of this data in a new light.
 Game guidelines
@@ -69,6 +59,6 @@ Next development steps:
 - If you’re into actual card games, check out Open Trumps. It’s a version of the popular card game Top Trumps based on open datasets from the UN and the World Bank. It includes a deck generator software.
 - And of course the ODI crew is developing the promising Open Data Board Game Project
 
-Now it’s your turn: you can either download the sample deck below or create your own. Do share your comments and decks. **I’m specially interested in hearing from designers and hope they will apply their thinking to improve the game.**
+Now it’s your turn: you can either download the sample deck below to play with or create your own. Do share your comments and decks. **I’m specially interested in hearing from designers and hope they will apply their thinking to improve the game.**
 
 Logo created by [Roxana Bacian](https://twitter.com/roxanabacian)
